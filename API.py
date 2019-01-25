@@ -62,4 +62,4 @@ while True:
                 '    VALUES ("temperature", %s)')
     cursor.execute(logdata, (mytemp))
     conn.commit()
-    time.sleep(5)
+    time.sleep(5) 
