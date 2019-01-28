@@ -18,7 +18,8 @@ Hardware components and prices
 - Battery pack (optional)
 
 If done, all components must be connected. Because of the many wires, it is the best to use a breakout board, 
-e.g., a general-purpose input/output (GPIO) board. The GPIO layout incl. The layout is in the “Wireing” folder. 
+e.g., a general-purpose input/output (GPIO) board. The GPIO layout incl. The layout is in the “Wireing” 
+folder. 
 You can see also a DC engine and a battery pack. These components are just for testing the current, 
 vibration and temperature live. You can skip this if you want to use the model, e.g., just to measure 
 environmental temperature and humidity.
