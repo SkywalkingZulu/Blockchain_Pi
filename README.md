@@ -24,7 +24,8 @@ You can see also a DC engine and a battery pack. These components are just for t
 vibration and temperature live. You can skip this if you want to use the model, e.g., just to measure 
 environmental temperature and humidity.
 
-After connecting everything, the raspberry can now be connected to power. All sensor lights/LEDs should be on. 
+After connecting everything, the raspberry can now be connected to power. All sensor lights/LEDs should 
+be on. 
 The LED from the vibration sensor is blinking, if there is some vibration.
 ```
 
